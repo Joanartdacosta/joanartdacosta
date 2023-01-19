@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript & React**
 
-- 📫 How to reach me **joanartdacosta@gmail.com**
+- 📫 How to reach me **jrtdacosta@gmail.com**
 
 - I believe that life is better with chocolate 🍫 , wine, cheese 🧀 and squats 🏋️‍ .
 
