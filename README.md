@@ -6,7 +6,7 @@
 - 📫 How to reach me **jrtdacosta@gmail.com**
 
 - I believe that life is better with chocolate 🍫 , wine, cheese 🧀 , dancee 💃 and squats 🏋️‍ .
-- Fun fact: I am a biiiiig fan of stand up comedy 😇
+- Fun fact: I am a biiiiig fan of stand up comedy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
