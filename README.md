@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joana Costa</h1>
-<h3 align="center">A passionate frontend developer from Portugal based in Germany.</h3>
+<h3 align="center">A passionate frontend developer from Portugal based in Germany, passionate about exploring the world 🌎.</h3>
 
 - 🌱 I’m currently learning **Javascript & React**
 
 - 📫 How to reach me **jrtdacosta@gmail.com**
 
 - I believe that life is better with chocolate 🍫 , wine, cheese 🧀 , dancee 💃 and squats 🏋️‍ .
-- Fun fact: I am a biiiiig fan of stand up comedy and passionate about exploring the world 🌎
+- Fun fact: I am a biiiiig fan of stand up comedy 😇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
