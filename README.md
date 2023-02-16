@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joana Costa</h1>
-<h3 align="center">A passionate frontend developer from Portugal based in Germany, Munich.</h3>
+<h3 align="center">A passionate frontend developer from Portugal based in Germany.</h3>
 
 - 🌱 I’m currently learning **Javascript & React**
 
 - 📫 How to reach me **jrtdacosta@gmail.com**
 
-- I believe that life is better with chocolate 🍫 , wine, cheese 🧀 and squats 🏋️‍ .
+- I believe that life is better with chocolate 🍫 , wine, cheese 🧀 , dancee 💃 and squats 🏋️‍ .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
