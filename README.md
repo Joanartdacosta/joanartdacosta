@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joana Costa</h1>
-<h3 align="center">A passionate frontend developer from Portugal based in Germany, passionate about exploring the world 🌎.</h3>
+<h3 align="center">A frontend developer from Portugal based in Germany, passionate about exploring the world 🌎.</h3>
 
 - 🌱 I’m currently learning **Javascript & React**
 
