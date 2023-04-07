@@ -1,18 +1,13 @@
-<h1 align="center">Hi 👋, I'm Joana Costa</h1>
-<h3 align="center">A frontend developer from Portugal based in Germany, passionate about exploring the world 🌎.</h3>
+<h2>Welcome, I am Joana, a passionate web-developer.</h1>
+<p>I am a portuguese girl, based in Germany, passionate about exploring the world 🌎.</p>
 
-- 🌱 I’m currently learning **Javascript & React**
+<p>I’m currently focused in learning **Javascript & React** while I am working in projects.</p>
 
-- 📫 How to reach me **jrtdacosta@gmail.com**
-
-- I believe that life is better with chocolate 🍫 , wine, cheese 🧀 , dancee 💃 and squats 🏋️‍ .
-- Fun fact: I am a biiiiig fan of stand up comedy
+<p> I will be very happy to welcome you. For more information about me, services or collaborations you can contact me using my socials or writing directly to my email: jrtdacosta@gmail.com.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joanartdacosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joanartdacosta" height="30" width="40" /></a>
-<a href="https://www.behance.net/joanardacosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="joanardacosta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/joanartdacosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joanartdacosta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
