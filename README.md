@@ -1,4 +1,5 @@
-<h2>Welcome, I am Joana, a passionate web-developer.</h1>
+<h1>Welcome.</h1>
+<h2>I am Joana, a passionate web-developer.</h2>
 <p>I am a portuguese girl, based in Germany, passionate about exploring the world 🌎.</p>
 
 <p>I’m currently focused in learning **Javascript & React** while I am working in projects.</p>
