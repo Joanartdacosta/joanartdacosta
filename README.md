@@ -1,12 +1,11 @@
 <h1>Welcome.</h1>
-<h2>I am Joana, a passionate web-developer.</h2>
-<p>I am a portuguese girl exploring the world 🌎, based in Germany.</p>
+<h2>I am Joana, a passionate web-developer based in Germany.</h2>
 
-<p>I’m currently focused in learning **Javascript & React** while I am working in projects.</p>
+<p>I’m currently focused in learning **TypeScript & React** while I am working in projects.</p>
 
 <p>After few years working in Pharmaceutical Industry, I found a new passion - coding. Now, I am looking forward for an opportunity to develop my career in IT.</p>
 
-<p> I will be very happy to welcome you. For more information about me, services or collaborations you can contact me using my socials or writing directly to my email: jrtdacosta@gmail.com.</p>
+<p> I will be very happy to welcome you. For more information about me, services or collaborations you can contact me using my socials or writing directly to my email: jrtdacosta@gmail.com. My personal webpage: https://joanartdacosta.github.io/</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
