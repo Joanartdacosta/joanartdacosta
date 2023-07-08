@@ -1,5 +1,5 @@
 <h1>Welcome.</h1>
-<h2>I am Joana, a passionate web-developer based in Germany.</h2>
+<h2>I am Joana, a passionate web-developer.</h2>
 
 <p>I’m currently focused in learning **TypeScript & React** while I am working in projects.</p>
 
