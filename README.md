@@ -3,7 +3,7 @@
 
 <p>I’m currently focused in learning **Next.js & React** while I am working in projects.</p>
 
-<p>After few years working in Pharmaceutical Industry, I found a new passion - coding. Now, I am looking forward for opportunities to develop mu career IT.</p>
+<p>After few years working in Pharmaceutical Industry, I found a new passion - coding. Now, I am looking forward for opportunities to develop my career IT.</p>
 
 <p> I will be very happy to welcome you. For more information about me, services or collaborations you can contact me using my socials or writing directly to my email: jrtdacosta@gmail.com. My personal webpage: https://joanartdacosta.github.io/</p>
 
