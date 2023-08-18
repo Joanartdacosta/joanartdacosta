@@ -1,7 +1,7 @@
 <h1>Welcome.</h1>
 <h2>I am Joana, a passionate web-developer.</h2>
 
-<p>I’m currently focused in learning **Next.js & React** while I am working in free-lance projects.</p>
+<p>I’m currently focused in learning **Next.js & React** while I am working in projects (freelancing).</p>
 
 <p>After few years working in Pharmaceutical Industry, I found a new passion - coding. Now, I am looking forward for opportunities to develop my career in IT field.</p>
 
