@@ -35,8 +35,8 @@
 
 <div align="left">
   <h3>Stats</h3>
-  <img src="https://streak-stats.demolab.com?user=Joanartdacosta&theme=graywhite"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=joanartdacosta&show_icons=true&theme=graywhite"/>
+  <img src="https://streak-stats.demolab.com?user=Joanartdacosta&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joanartdacosta&show_icons=true&theme=github_dark"/>
 </div>
 
 </br>
@@ -46,11 +46,11 @@
 <div align="left">
 <h3>Repos</h3>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=Joanartdacosta.github.io&theme=graywhite)]
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=chalet&theme=graywhite))]
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=Joanartdacosta.github.io&theme=github_dark)]
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=chalet&theme=github_dark))]
 </div>
 
 <div align="left">
 <h3>Top Langs</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanartdacosta&theme=graywhite"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanartdacosta&theme=github_dark&layout=compact"/>  
 </div>
