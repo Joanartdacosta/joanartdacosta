@@ -11,3 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/joanartdacosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joanartdacosta" height="30" width="40" /></a>
 </p>
+
+
+[![Joana Costa's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanartdacosta&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanartdacosta&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
