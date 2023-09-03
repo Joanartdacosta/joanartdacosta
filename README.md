@@ -39,6 +39,8 @@
 </br>
 </br>
 <img src="https://streak-stats.demolab.com?user=Joanartdacosta&theme=nord"/>
+</br>
+</br>
 <img src="https://github-readme-stats.vercel.app/api?username=joanartdacosta&show_icons=true&theme=nord"/>
 </div>
 
