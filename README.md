@@ -31,8 +31,9 @@
 
 [![Joana Costa's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanartdacosta&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanartdacosta&theme=nord)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Joanartdacosta&theme=nord)](https://git.io/streak-stats)
 
 ### Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=Joanartdacosta.github.io)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=chalet)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=Joanartdacosta.github.io&theme=radical)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=chalet&theme=radical))]
