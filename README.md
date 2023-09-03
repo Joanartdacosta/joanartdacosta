@@ -2,7 +2,7 @@
 <h1>Welcome.</h1>
 <h2>Hello, I am Joana 👩‍💻</h2>
 
-<img alt="bannerJC" height="300px" width="1200" src="https://joana-personal-website.s3.eu-central-1.amazonaws.com/banner.png"/>
+<img alt="bannerJC" height="250px" width="1200" src="https://joana-personal-website.s3.eu-central-1.amazonaws.com/banner.png"/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
