@@ -36,7 +36,7 @@
 <div>
   <h3>Stats</h3>
   <img alight="left" src="https://streak-stats.demolab.com?user=Joanartdacosta&theme=nord"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=joanartdacosta&show_icons=true&theme=nord"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=joanartdacosta&show_icons=true&theme=nord"/>
 </div>
 
 </br>
