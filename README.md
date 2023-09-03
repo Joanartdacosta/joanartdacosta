@@ -1,6 +1,6 @@
 <div>
   <h1>Welcome.</h1>
-  <h2>Hello, I am Joana a passionate web-developer 👩‍💻</h2>
+  <h2>Hello, I am Joana - a passionate web-developer 👩‍💻</h2>
 
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,7 +17,7 @@
 </br>
 
 <div align="left">
-  <p>After few years working in Pharmaceutical Industry, I found a new passion - coding. I am available for freelance or full-time positions.</p>
+  <p>After few years working in Pharmaceutical Industry, I found a new passion - coding. Now, I am available for freelance or full-time positions.</p>
   <p>My personal webpage: https://joanartdacosta.github.io/</p>
 </div>
 
