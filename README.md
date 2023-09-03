@@ -33,10 +33,10 @@
 </br>
 </br>
 
-<div>
+<div align="left">
   <h3>Stats</h3>
-  <img alight="left" src="https://streak-stats.demolab.com?user=Joanartdacosta&theme=nord"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=joanartdacosta&show_icons=true&theme=nord"/>
+  <img src="https://streak-stats.demolab.com?user=Joanartdacosta&theme=nord"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joanartdacosta&show_icons=true&theme=nord"/>
 </div>
 
 </br>
@@ -46,6 +46,8 @@
 <h3>Top Langs</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanartdacosta&theme=nord"/>  
 </div>
+
+</br>
 
 <div align="left">
 <h3>Repos</h3>
