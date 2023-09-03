@@ -17,7 +17,7 @@
 </br>
 
 <div align="left">
-  <p>After few years working in Pharmaceutical Industry, I found a new passion - coding. Now, I am available for freelance or full-time positions.</p>
+  <p>After few years working in Pharmaceutical Industry, I found a new passion - coding. Now, I am available for freelance or part-time & full-time positions.</p>
   <p>My personal webpage: https://joanartdacosta.github.io/</p>
 </div>
 
