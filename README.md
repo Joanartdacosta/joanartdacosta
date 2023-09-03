@@ -34,8 +34,8 @@
 
 </br>
 </br>
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanartdacosta&theme=nord"/>  
+<div align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanartdacosta&theme=nord"/>  
 </br>
 </br>
 <img src="https://streak-stats.demolab.com?user=Joanartdacosta&theme=nord"/>
