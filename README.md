@@ -22,7 +22,7 @@
 </div>
 
 <div align="left">
-  <h3>Connect with me:</h3>
+  <h3>Connect with me</h3>
   <p>For more information about me, services or collaborations, let's talk: </p>
   <ul>
     <li>jrtdacosta@gmail.com</li>
