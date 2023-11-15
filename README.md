@@ -48,6 +48,7 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=Joanartdacosta.github.io&theme=github_dark)]
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=chalet&theme=github_dark))]
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=roads-blog&theme=github_dark))]
 </div>
 
 <div align="left">
