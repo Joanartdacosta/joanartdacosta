@@ -26,7 +26,7 @@
   <p>For more information about me, services or collaborations, let's talk: </p>
   <ul>
     <li>jrtdacosta@gmail.com</li>
-    <li> <a href="https://linkedin.com/in/joanartdacosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joanartdacosta" height="30" width="40" /></a></li>
+   
   </ul>
 </div>
 
