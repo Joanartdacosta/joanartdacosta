@@ -11,7 +11,7 @@
 </div>
 
 <div align="left">
-<p>I’m currently focused in learning **Next.js & React** while I am working in projects.</p>
+<p>I’m currently focused in learning **Java** while I am working in projects.</p>
 </div>
 
 </br>
