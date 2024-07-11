@@ -47,7 +47,7 @@
 <h3>Repos</h3>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=Joanartdacosta.github.io&theme=github_dark)]
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=chalet&theme=github_dark))]
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=chalet-2.0&theme=github_dark))]
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joanartdacosta&repo=roads-blog&theme=github_dark))]
 </div>
 
